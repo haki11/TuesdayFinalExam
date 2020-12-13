@@ -22,8 +22,6 @@ public class BankingSystem {
         customers.add(c1);
         customers.add(c2);
         
-        Account account = new Account();
-        
         // print the two customers information
         
   
